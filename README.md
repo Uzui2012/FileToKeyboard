@@ -1,4 +1,4 @@
-#FileToKeyboard
+# FileToKeyboard
 
 FileToKeyboard is a quick and dirty script/program that users can use to quickly paste out input from a file line by line, with optional prefixes and affixes, into a desired active/selected textfield.
 
